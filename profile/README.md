@@ -10,8 +10,8 @@ The repositories are structured to share a set of core modules while remaining d
 
 | Repository                                          | Description                                                  |
 | --------------------------------------------------- | ------------------------------------------------------------ |
-| [unibox](https://github.com/trojblue/unibox)        | Unified data access layer for seamless intake and export across various file formats (e.g., Parquet, PNG) and storage backends (e.g., local, S3, Hugging Face). |
 | [scrapelib](https://github.com/arot-devs/scrapelib) | Utilities for large-scale data scraping and extraction, enabling dataset collection and preprocessing. |
+| [unibox](https://github.com/trojblue/unibox)        | Unified data access layer for seamless intake and export across various file formats (e.g., Parquet, PNG) and storage backends (e.g., local, S3, Hugging Face). |
 | [dataproc5](https://github.com/arot-devs/dataproc5) | Orchestrates data processing pipelines with Kedro, aggregating silver and gold-tier data from scrapes. |
 
 
